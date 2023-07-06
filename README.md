@@ -9,3 +9,4 @@ This project's purpose was to help users create a unique password with the desir
 
 
 ## Link
+[Random Name Generator](https://lukehevey.github.io/random-name-generator/)
